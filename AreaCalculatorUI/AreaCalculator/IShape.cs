@@ -1,7 +1,7 @@
 ﻿namespace AreaCalculator
 {
-    public class Class1
+    public interface IShape
     {
-
+        public double GetArea();
     }
 }

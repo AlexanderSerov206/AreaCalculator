@@ -7,4 +7,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\AreaCalculator\AreaCalculator.csproj" />
+  </ItemGroup>
+
 </Project>
